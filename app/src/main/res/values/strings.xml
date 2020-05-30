@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UAS 180030319 1 (Obat)</string>
+    <string name="id_obat">ID Obat</string>
+    <string name="nama_obat">Nama Obat</string>
+    <string name="deskripsi_obat">Deskripsi Obat</string>
+    <string name="aturan_pakai">Aturan Pakai</string>
+    <string name="jenis_obat">Jenis Obat</string>
+    <string name="gambar">Ilustrasi Gambar</string>
+    <string name="titik_dua">:</string>
+    <string name="data_obat">Data Obat</string>
+    <string name="tambah">Tambah Obat</string>
+    <string name="edit">Edit Obat</string>
+    <string name="hapus">Hapus Obat</string>
+    <string name="simpan">Simpan</string>
+</resources>
